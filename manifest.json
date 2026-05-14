@@ -1,0 +1,21 @@
+{
+  "name": "PV in Pocket SL",
+  "short_name": "PV Pocket SL",
+  "description": "A comprehensive mobile guide for Pharmacovigilance professionals.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/pbsl.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pbsl.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
